@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/route-lab-4/static/css/main.80b8305f.css",
+    "main.js": "/route-lab-4/static/js/main.53e486e1.js",
+    "index.html": "/route-lab-4/index.html",
+    "main.80b8305f.css.map": "/route-lab-4/static/css/main.80b8305f.css.map",
+    "main.53e486e1.js.map": "/route-lab-4/static/js/main.53e486e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80b8305f.css",
+    "static/js/main.53e486e1.js"
+  ]
+}
